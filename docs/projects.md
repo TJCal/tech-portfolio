@@ -13,5 +13,5 @@ or even embed images with the following Markdown:
 
 ![Add alternate text for image](./assets/rosemary.png)
 
-My project was my last CSC130 assignment
+My project is a snippet of my last CSC130 assignment.
 ![](./assets/Capture.PNG)
