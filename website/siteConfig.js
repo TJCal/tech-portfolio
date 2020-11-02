@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'javon-callens-8112001ba',
-        twitter: 'https://twitter.com/CalTj',
+        twitter: 'CalTj',
         github: 'TJCal',
     },
 
