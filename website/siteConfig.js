@@ -67,8 +67,8 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'Javon-Callens-',
-        twitter: 'Dont have twitter',
+        linkedin: 'javon-callens-8112001ba',
+        twitter: 'https://twitter.com/CalTj',
         github: 'TJCal',
     },
 
